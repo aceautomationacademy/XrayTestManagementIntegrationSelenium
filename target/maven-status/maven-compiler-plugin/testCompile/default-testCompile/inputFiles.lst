@@ -1,0 +1,12 @@
+/usr/src/app/src/test/java/pages/LoggedInPage.java
+/usr/src/app/src/test/java/runner/TestRunner.java
+/usr/src/app/src/test/java/pages/LoginPage.java
+/usr/src/app/src/test/java/stepDefinition/RegistrationPage.java
+/usr/src/app/src/test/java/pages/RegistrationPage.java
+/usr/src/app/src/test/java/stepDefinition/LoginPage.java
+/usr/src/app/src/test/java/utility/BrowserDriver.java
+/usr/src/app/src/test/java/stepDefinition/OnlineProductsPage.java
+/usr/src/app/src/test/java/pages/HomePage.java
+/usr/src/app/src/test/java/pages/OnlineProductsPage.java
+/usr/src/app/src/test/java/stepDefinition/HomePage.java
+/usr/src/app/src/test/java/stepDefinition/LoggedInPage.java
